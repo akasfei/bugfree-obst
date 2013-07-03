@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1372839418 source:c:\users\sfei\documents\github\bugfree-obst\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"core.h"
+	"models.h"
+	"bintree.h"
+	"coreio.h"
+	"obst.h"
+
+1365501643 c:\users\sfei\documents\github\bugfree-obst\src\core.h
+
+1372829432 c:\users\sfei\documents\github\bugfree-obst\src\models.h
+
+1369221540 c:\users\sfei\documents\github\bugfree-obst\src\bintree.h
+
+1372829856 c:\users\sfei\documents\github\bugfree-obst\src\coreio.h
+
+1372839034 c:\users\sfei\documents\github\bugfree-obst\src\obst.h
+
