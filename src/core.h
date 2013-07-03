@@ -1,0 +1,20 @@
+enum
+{
+    CLASS_LSHEET = 0,
+    CLASS_STACK,
+    CLASS_QUEUE,
+    CLASS_STRING,
+    CLASS_ARRAY,
+    CLASS_WSHEET,
+    CLASS_BTREE,
+    CLASS_GRAPH
+};
+
+enum
+{
+    STS_OK = 0,
+    STS_FAIL,
+    STS_OVERFLOW,
+    STS_CRASH,
+    STS_MAX
+};
